@@ -2,6 +2,8 @@
 ## Background Problem
 This project aims to predict the future stock prices of PT Adaro Energy Indonesia Tbk (ADRO) using deep learning models such as LSTM and LSTM+GRU, utilizing the ADRO.csv dataset containing historical stock price data. This time series data is analyzed through Exploratory Data Analysis (EDA) and feature engineering techniques like normalization and time series data creation. The developed models are then evaluated using MSE, RMSE, and R2 metrics to assess prediction accuracy, with the goal of providing insights for better investment decision-making.
 
+Link Dataset from kaggle (https://www.kaggle.com/datasets/muamkh/ihsgstockdata/data)
+
 ## Libraries Version
 - NumPy version: 2.0.2
 - Pandas version: 2.2.2
